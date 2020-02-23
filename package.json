@@ -1,0 +1,15 @@
+{
+  "name": "solar",
+  "version": "1.0.0",
+  "description": "Planet / System Generator",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Raven Duffy",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
